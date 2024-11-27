@@ -10,6 +10,3 @@ General1 = function(nombre:string, apellido:string, edad:number):void{
 
 }
 General1('Carlos','Rafael',37)
-
-
-
